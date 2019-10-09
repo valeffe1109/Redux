@@ -1,0 +1,49 @@
+
+/* Page Font */
+
+.App{
+    font-family: 'Share Tech Mono', monospace;
+}
+
+
+
+/* NavBar Style */
+.Nav {
+background-color: #5CDB95;
+color: white;
+}
+.Link:hover{
+color:white
+}
+.Link{
+color:#05386B;
+font-weight: bold
+}
+
+/* Jumbotron Style */
+
+.Container{
+  
+    color:#EDF5E1;
+    font-weight:bold;
+    font-size:30px;
+    text-align:start;
+}
+
+/* Card Style */
+
+.Card{
+    background-color:#EDF5E1;
+    color:#05386B;
+    
+}
+
+.btn-primary{
+    background-color:#5CDB95!important;
+    color:#05386B!important;
+
+}
+.btn-primary:hover{
+    background-color:#8EE4AF!important;
+
+}
